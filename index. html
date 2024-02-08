@@ -1,0 +1,113 @@
+<!DOCTYPEhtml>
+
+<HTML>
+<head>
+<style>
+
+body{background-color: pink;}
+h1		{color: violet;}
+h2      {color: red;}
+p		{color: blue;}
+</style>
+</head>
+
+<body>
+<h2 "header style="text-align: center">
+
+<center>
+<h1  style="font-family: courier; text shadow 5px 2px 2px #FFA07A">MY FIRST WEBSITE </h1>
+
+<h2 style="font-family:courier;">My Lovely Photo</h2>
+<img src="IMG_20231218_155321_749.jpg" width="180"   height="270">
+ <img src="img_2_1702994368598.jpg" width="200"  height="280"> 
+ <img src="IMG20230602080228.jpg" width="180"  height="250">
+ <img src="FB_IMG_1668398972942.jpg" width="200"  height="250">
+
+<h1 style="font-family:courier;">MY LOVE</h1>
+<img src="Messenger_creation_93f26052-82c4-40f3-98de-2b2d6d4ac6ff.jpeg" width="150" height="150">
+<img src="received_746097610904262.jpeg" width="100" height="150">
+<img src="received_215605157776592.jpeg" width="100" height="150">
+<img src="IMG_20231220_230309.jpg" width="100" height="150">
+
+
+<h1 style="font-family:courier;">JEA'S @18</h1>
+
+<img src="IMG20210927093908_00.jpg" width="180"  height="250">
+<img src="IMG20210926181147_00.jpg" width="200"  height="250">
+<img src="received_938052073449194.jpeg" width="300"  height="250">
+
+
+<video width="350" controls>
+<source src="Project_11-14_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-14_HD 720p_MEDIUM_FR30.mp4" width="350" controls>
+<source src="Project_11-14_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-14_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-14_HD 720p_MEDIUM_FR30.mp4" width="350" controls>
+<source src="Project_11-14_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-14_HD 720p_MEDIUM_FR30.mp4" type="video">
+</video>
+</center>
+<br>
+</br>
+
+<center>
+
+<h1 style="font-family:courier;"> Tobog Beach Resort</h1>
+<h2 style="font-family:courier;">  GREAT MEMORIES IN SAN JOAQUIN,ILOILO</h2>
+<img src="IMG_20211211_080800.jpg" width="180" height="250">
+<img src="FB_IMG_1668086574347.jpg" width="200" height="250">
+<img src="FB_IMG_1668086484480.jpg" width="200" height="250">
+<img src="IMG_20211211_080805.jpg" width="200" height="270">
+<img src="FB_IMG_1668086532421.jpg" width="200" height="250">
+
+<h1 style="font-family:courier;">MY GRADUATION DAY</h1>
+
+<video width="300" controls>
+<source src="Project_11-13_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-13_HD 720p_MEDIUM_FR30.mp4" width="300" controls>
+<source src="Project_11-13_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-13_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-13_HD 720p_MEDIUM_FR30.mp4" width="300" contols>
+<source src="Project_11-13_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-13_HD 720p_MEDIUM_FR30.mp4" type="video">
+</video>
+</center>
+<br>
+</br>
+
+<center>
+<h1 style="font-family:courier;"> Lagaw lagaw sa bay2x</h1>
+<h2 style="font-family:courier;"> Genilla Beach Resort @ Guimbal,Iloilo</h2>
+<center>
+
+<video width="400" controls>
+<source src="Project_11-14(1)_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-14(1)_HD 720p_MEDIUM_FR30.mp4" width="300" controls>
+<source src="Project_11-14(1)_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-14(1)_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-14(1)_HD 720p_MEDIUM_FR30.mp4" width="300" controls>
+<source src="Project_11-14(1)_HD 720p_MEDIUM_FR30.mp4" type="video">
+<source src="Project_11-14(1)_HD 720p_MEDIUM_FR30.mp4" type="video">
+
+
+
+</video>
+</center>
+<br>
+</br>
+
+<hr>
+<h2> HTML links</h2>
+<button> Click Me</button>
+<p><a href="https://www.facebook.com/jea.oresco" target="_blank"> Visit my Facebook Page</a></p>
+
+
+<hr/>
+<center>
+<p> "Success is simple. Do what's right, the right way, at the right time."</p>
+
+<h2> JEA ORESCO BS INFOTECH 2-A</h2>
+    </body>
+ </center>
+ </html>
+
